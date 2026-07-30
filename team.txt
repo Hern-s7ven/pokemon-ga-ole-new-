@@ -1,0 +1,5 @@
+Pikachu,Pikachu,Electric,Starter,1,150,600,80,0,4
+Magikarp,Magikarp,Water,Starter,1,140,550,75,0,7
+Tauros,Tauros,Normal,★★★,3,142,600,70,1,0
+Magmar,Magmar,Fire,★★★,3,172,529,66,1,9
+Machamp,Machop,Fighting,★★★★,4,246,674,126,2,10
