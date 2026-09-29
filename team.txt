@@ -1,0 +1,10 @@
+Pikachu,Pikachu,Electric,Starter,1,150,600,80,0,2
+Magikarp,Magikarp,Water,Starter,1,140,550,75,0,7
+Tauros,Tauros,Normal,★★★,3,142,600,70,1,0
+Magmar,Magmar,Fire,★★★,3,172,529,66,1,9
+Machamp,Machop,Fighting,★★★★,4,246,674,126,2,9
+Squirtle,Squirtle,Water,★,1,110,510,97,1,10
+Charmander,Charmander,Fire,★,1,130,590,92,1,10
+Geodude,Geodude,Rock,★★,2,113,545,63,1,9
+Squirtle,Squirtle,Water,★,1,110,562,69,1,10
+Electabuzz,Electabuzz,Electric,★★★,3,181,580,63,1,10
